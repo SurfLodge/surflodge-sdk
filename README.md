@@ -1,4 +1,4 @@
-## Balancer SDK
+## SurfLodge SDK - Balancer SDK Fork
 
 Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum blockchain and other EVM compatible systems.
 

@@ -1,12 +1,12 @@
 {
-    "name": "@balancer-labs/sdk",
-    "version": "0.1.1",
-    "description": "JavaScript SDK for interacting with the Balancer Protocol V2",
+    "name": "@SurfLodge/surflodge-sdk",
+    "version": "0.1.0",
+    "description": "JavaScript SDK for interacting with the SurfLodge Protocol",
     "license": "GPL-3.0-only",
     "homepage": "https://github.com/balancer-labs/balancer-sdk/balancer-js#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/balancer-labs/balancer-sdk",
+        "url": "https://github.com/SurfLodge/surflodge-sdk",
         "directory": "balancer-js"
     },
     "bugs": {
@@ -74,7 +74,7 @@
         "typescript": "^4.0.2"
     },
     "dependencies": {
-        "@balancer-labs/sor": "github:beethovenxfi/balancer-sor#daniel/generic-path-algo-build",
+        "@balancer-labs/sor": "github:SurfLodge/surflodge-sdk",
         "axios": "^0.24.0",
         "graphql": "^15.6.1",
         "graphql-request": "^3.5.0",
