@@ -856,7 +856,7 @@
         return { swaps: batchedSwaps, assets: newAssetArray };
     }
 
-    const balancerVault = '0x8992EE66bD20Cd5da39c80b8298950026f19daaD';
+    const balancerVault = '0x711369A4Bc562B569aE39B4f5F818703fb952e61';
     const BALANCER_NETWORK_CONFIG = {
         [exports.Network.MAINNET]: {
             chainId: exports.Network.MAINNET,

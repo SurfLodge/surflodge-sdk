@@ -1,7 +1,7 @@
 import { Network } from './network';
 import { BalancerNetworkConfig } from '@/types';
 
-export const balancerVault = '0x8992EE66bD20Cd5da39c80b8298950026f19daaD';
+export const balancerVault = '0x711369A4Bc562B569aE39B4f5F818703fb952e61';
 
 export const BALANCER_NETWORK_CONFIG: Record<Network, BalancerNetworkConfig> = {
     [Network.MAINNET]: {

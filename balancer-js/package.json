@@ -1,6 +1,6 @@
 {
     "name": "@SurfLodge/surflodge-sdk",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "JavaScript SDK for interacting with the SurfLodge Protocol",
     "license": "GPL-3.0-only",
     "homepage": "https://github.com/balancer-labs/balancer-sdk/balancer-js#readme",
