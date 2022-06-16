@@ -155,7 +155,8 @@ declare enum Network {
     GÖRLI = 5,
     KOVAN = 42,
     POLYGON = 137,
-    ARBITRUM = 42161
+    ARBITRUM = 42161,
+    AURORA = 1313161554
 }
 
 interface BalancerSdkConfig {
