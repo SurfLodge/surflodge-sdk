@@ -146,4 +146,29 @@ export const BALANCER_NETWORK_CONFIG: Record<Network, BalancerNetworkConfig> = {
         },
         pools: {},
     },
+    [Network.AURORA]: {
+        chainId: Network.AURORA, //1
+        addresses: {
+            contracts: {
+                vault: '0x711369A4Bc562B569aE39B4f5F818703fb952e61',
+                multicall: '0x0aEe64C8db494A153038B09De11cB0dddAEdEE5d',
+            },
+            tokens: {
+                wrappedNativeAsset:
+                    '0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB',
+            },
+            linearFactories: {
+               // '0xd7fad3bd59d6477cbe1be7f646f7f1ba25b230f8': 'aave',
+            },
+        },
+        urls: {
+            subgraph: 'https://api.surflodge.xyz/graphql',
+        },
+        pools: {
+           /* staBal3Pool: {
+                id: '0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb20000000000000000000000fe',
+                address: '0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2',
+            },*/
+        },
+    },
 };
