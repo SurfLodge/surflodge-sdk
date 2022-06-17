@@ -7053,7 +7053,7 @@ const NETWORKS_WITH_LINEAR_POOLS = [
     Network.RINKEBY,
     Network.GÖRLI,
     Network.KOVAN,
-    250,
+    1313161554,
 ];
 class SubgraphPoolDataService {
     constructor(client, provider, network, sorConfig) {
